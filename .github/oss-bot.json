@@ -1,4 +1,12 @@
 {
-  "enable": true,
-  "generateTime": "0 8 14 * * *"
+  "weekly-report": {
+    "enable": true,
+    "generateTime": "0 8 14 * * *"
+  },
+  "label-setup": {
+    "enable": true
+  },
+  "issue-auto-label": {
+    "enable": true
+  }  
 }
