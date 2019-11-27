@@ -1,7 +1,7 @@
 {
   "weekly-report": {
     "enable": true,
-    "generateTime": "0 8 14 * * *"
+    "generateTime": "0 10 22 * * *"
   },
   "label-setup": {
     "enable": true
