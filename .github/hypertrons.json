@@ -37,6 +37,6 @@
   },
   "weekly-report": {
     "enable": true,
-    "generateTime": "0 19 12 * * 1"
+    "generateTime": "0 14 18 * * 1"
   }
 }
