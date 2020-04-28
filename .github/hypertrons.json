@@ -93,12 +93,6 @@
         "description": "Not author of the issue or pull",
         "users": [],
         "commands": [ "/approve" ]
-      },
-      {
-        "name": "anyone",
-        "description": "Anyone",
-        "users": [],
-        "commands": [ "/self-assign", "/vote" ]
       }
     ]
   },
