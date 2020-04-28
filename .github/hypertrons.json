@@ -98,7 +98,7 @@
         "name": "anyone",
         "description": "Anyone",
         "users": [],
-        "commands": [ "/self-assign", "/vote" ]
+        "commands": [ "/vote" ]
       }
     ]
   },
@@ -125,12 +125,6 @@
     "version": 1
   },
   "rerun": {
-    "version": 1
-  },
-  "auto_label": {
-    "version": 1
-  },
-  "self_assign": {
     "version": 1
   },
   "complete_checklist": {
