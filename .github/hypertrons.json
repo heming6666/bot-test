@@ -123,10 +123,7 @@
   },
   "auto_label": {
     "version": 1
-  },
-  "self_assign": {
-    "version": 1
-  },
+  }
   "complete_checklist": {
    "version": 1
   },
